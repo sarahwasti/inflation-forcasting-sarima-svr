@@ -1,5 +1,4 @@
-# Inflation Rate Forecasting 
-### Comparing SARIMA and SVR for Monthly Inflation Prediction (2006–2025) in Bandar Lampung
+# Comparing SARIMA and SVR for Inflation Rate Forecasting in Bandar Lampung (2006–2025)
 
 ---
 
